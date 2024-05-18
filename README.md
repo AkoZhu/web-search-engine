@@ -2,6 +2,8 @@
 
 **NOTICE:** Due to the academic policy, the source code is excluded.
 
+**Details**: https://akozhu.github.io/portfolio/distributed-search-engine/
+
 ## Run
 Make sure you are in the `backend` directory.
 

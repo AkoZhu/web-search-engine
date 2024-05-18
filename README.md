@@ -1,4 +1,4 @@
-# Search Engine from Scratch
+# Cloud-based Distributed Search Engine
 
 **NOTICE:** Due to the academic policy, the source code is excluded.
 
